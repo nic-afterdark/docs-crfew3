@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-jn4myf.pusatradar88.cfd/sitemap.xml
